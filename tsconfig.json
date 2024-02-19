@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "experimentalDecorators": true,
+    "typeRoots": ["node_modules/@types"],
+    "module": "commonjs",
+    "emitDecoratorMetadata": true,
+    "esModuleInterop": true,   
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,  
+    "skipLibCheck": true 
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
