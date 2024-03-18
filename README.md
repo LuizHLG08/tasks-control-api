@@ -59,7 +59,7 @@ URL Search Params
 
 | Parâmetro | Exemplo de uso | Descrição |
 | ------ | ------ | ------ |
-| category | /tasks?category=estudo | Forneça o "id" da categoria para trazer somente tarefas da categoria determinada |
+| category | /tasks?category=estudo | Forneça o "nome" da categoria para trazer somente tarefas da categoria determinada |
 
 #### Possíveis erros:
 
